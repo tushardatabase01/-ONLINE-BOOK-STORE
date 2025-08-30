@@ -61,7 +61,6 @@ Quantity
 Total_Amount
 
 🔍 SQL Queries Included
-✅ Basic Queries
 
 Retrieve all books in a specific genre.
 
